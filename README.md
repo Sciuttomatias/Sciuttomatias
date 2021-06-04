@@ -1,16 +1,17 @@
+<a href="https://ibb.co/q1p0cK7"><img src="https://i.ibb.co/dKDbVFj/Banner-Github-Matias.jpg" alt="Banner-Github-Matias" border="0"></a>
 
-
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 
+
 ### 🙋🏻‍♂️ About Me:
-- 🧑🏻‍💻 I'm currently working on my final project at <a href="https://www.soyhenry.com/">Henry's Bootcamp</a>, in which I'm developing an app while using Agile Scrum Methodology to work in team!
-- 🤔 I use daily ```.javascript```,``` .py```, ```.sql```
+- 🧑🏻‍💻 I'm currently working on my final project at <a href="https://www.soyhenry.com/">Henry's Bootcamp</a>, in which I'm developing an app while using Agile Scrum Methodology to do some team work!
+- 🤔 I use daily  ``` .html```,``` .css```,``` .javascript```,``` .postgreSQL```, ```.node```, ```.react```, ```.sequelize```, ```.git```
 - 🌱 I’m currently learning typescript and react native
 - 📝 I really enjoy reading, and I'm currently working on a daily blog (soon to come)
-- 🇦🇷 Soy de Argentina, y me interesa mucho conocer gente de todo el mundo!
-
-
+- 🇦🇷 Soy de Argentina y me interesa conocer gente de todas partes del mundo!
+- ⚡ Fun fact = I'm also an actor, and I play a role in one of the Argentina's most famous plays <a href="https://www.ticketek.com.ar/leccion-anatomia/online">"La Lección de Anatomía"</a>
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,7 +29,6 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br>
 <br>
 <br>
 <br>
