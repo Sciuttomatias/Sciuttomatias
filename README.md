@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning typescript and react native
 - 📝 I really enjoy reading, and I'm currently working on a daily blog (soon to come)
 - 🇦🇷 Soy de Argentina y me interesa conocer gente de todas partes del mundo!
-- ⚡ Fun fact = I'm also an actor, and I play a role in one of the Argentina's most famous plays <a href="https://www.ticketek.com.ar/leccion-anatomia/online">"La Lección de Anatomía"</a>
+- ⚡ Fun fact: I'm also an actor, and I play a role in one of Argentina's most famous plays <a href="https://www.ticketek.com.ar/leccion-anatomia/online">"La Lección de Anatomía"</a>
 <br>
 
 ### 🛠 &nbsp;Tech Stack
