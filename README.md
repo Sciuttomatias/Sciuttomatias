@@ -1,8 +1,4 @@
-<a href="https://ibb.co/q1p0cK7"><img src="https://i.ibb.co/dKDbVFj/Banner-Github-Matias.jpg" alt="Banner-Github-Matias" border="0"></a>
-
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-
+<a href="https://ibb.co/q1p0cK7"><img width="1700px" src="https://i.ibb.co/dKDbVFj/Banner-Github-Matias.jpg" alt="Banner-Github-Matias" border="0"></a>
 
 ### 🙋🏻‍♂️ About Me:
 - 🧑🏻‍💻 I'm currently working on my final project at <a href="https://www.soyhenry.com/">Henry's Bootcamp</a>, in which I'm developing an app while using Agile Scrum Methodology to do some team work!
