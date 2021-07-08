@@ -1,7 +1,7 @@
-<a href="https://ibb.co/YhwtF0v"><img width="1700px" src="https://i.ibb.co/dKDbVFj/Banner-Github-Matias.jpg" alt="Banner-Github-Matias" border="0"></a>
+<a href="https://ibb.co/YhwtF0v"><img width="1700px" src="https://i.ibb.co/bXDrMbp/Banner-Github-Matias.jpg" alt="Banner-Github-Matias" border="0"></a>
 
 ### 🙋🏻‍♂️ About Me:
-- 🧑🏻‍💻 I'm currently working on my final project at <a href="https://www.soyhenry.com/">Henry's Bootcamp</a>, in which I'm developing an app while using Agile Scrum Methodology to do some team work!
+- 🧑🏻‍💻 I have recently finished my final project at <a href="https://www.soyhenry.com/">Henry's Bootcamp</a>, in which I've developed an app while using Agile Scrum Methodology to do some team work!
 - 🤔 I use daily  ``` .html```,``` .css```,``` .javascript```,``` .postgreSQL```, ```.node```, ```.react```, ```.sequelize```, ```.git```
 - 🌱 I’m currently learning typescript and react native
 - 📝 I really enjoy reading, and I'm currently working on a daily blog (soon to come)
