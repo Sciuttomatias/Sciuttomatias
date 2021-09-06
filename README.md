@@ -2,7 +2,7 @@
 
 ### 🙋🏻‍♂️ About Me:
 - 🧑🏻‍💻 I graduated from <a href="https://www.soyhenry.com/">Henry's Bootcamp</a>, and I'm currently working for SpaceDev!
-- 🤔 I use daily  ``` .html```,``` .css```,``` .javascript```, ```.node```, ```.reactNative```, ```.mongoDB```, ```.git```
+- 🤔 I use daily  ``` .html```,``` .css```,``` .javascript```, ```.node```, ```.react-native```, ```.mongoDB```, ```.git```
 - 🌱 I’m currently learning typescript and react native
 - 📝 I really enjoy reading
 - 🇦🇷 Soy de Argentina y me interesa conocer gente de todas partes del mundo!
