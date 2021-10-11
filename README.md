@@ -34,7 +34,6 @@
 
 <a href="https://www.linkedin.com/in/sciuttomatias"><img src="https://img.shields.io/badge/-Matias%20Sciutto%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sciuttomatias@gmail.com"><img src="https://img.shields.io/badge/-sciuttomatias@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/Matisciutto"><img src="https://img.shields.io/badge/-@Matisciutto-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/matisciutto/"><img src="https://img.shields.io/badge/-@matisciutto-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
